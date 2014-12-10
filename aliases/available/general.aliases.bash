@@ -1,6 +1,17 @@
 cite about-alias
 about-alias 'general aliases'
 
+## Alias for subl
+alias e='subl'
+alias s='subl'
+
+## Alias for vagrant
+alias vup='vagrant up'
+alias vsh='vagrant ssh'
+
+## Starscream
+alias working_on='source ~/.virtualenvs/starscream/bin/activate'
+
 # List directory contents
 alias sl=ls
 alias ls='ls -Gals'        # Compact view, show colors
