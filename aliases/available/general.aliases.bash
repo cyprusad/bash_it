@@ -8,6 +8,7 @@ alias s='subl'
 ## Alias for vagrant
 alias vup='vagrant up'
 alias vsh='vagrant ssh'
+alias startify='cd ~/Shopify/vagrant && vsh'
 
 ## Starscream
 alias working_on='source ~/.virtualenvs/starscream/bin/activate'
